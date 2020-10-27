@@ -9,21 +9,27 @@ The AgroSENSE mobile app is built to help users set up their own hydroponics sys
 
 ## Images
 
-![Home page.](AgroSENSE/screenshots/homepage.png)
+<div style="text-align:center"><img src="AgroSENSE/screenshots/homepage.png" alt="homepage" width="300" style="align-self: center;"/></div>
 
-*Home page of the app. Top left bubble is the builder's guide. Top right bubble is the community guide. Bottom left bubble is the cookbook. Bottom center bubble is the maps section. Bottom right bubble is the survey section. Center bubble is information about the hydroponics system.*
+<div style="text-align: center;"><i>Home page of the app. Top left bubble is the builder's guide. Top right bubble is the community guide. Bottom left bubble is the cookbook. Bottom center bubble is the maps section. Bottom right bubble is the survey section. Center bubble is information about the hydroponics system.</i></div>
+<br>
 
-![Builders guide.](AgroSENSE/screenshots/buildguide.png)
+<div style="text-align:center"><img src="AgroSENSE/screenshots/buildguide.png" alt="builder guide" width="300" style="align-self: center;"/></div>
 
-*Builder's Guide section of the app, giving instructions about building a hydroponics system.*
+<div style="text-align: center;"><i>Builder's Guide section of the app, giving instructions about building a hydroponics system.</i></div>
+<br>
 
-![Community guide.](AgroSENSE/screenshots/commguide.png)
+<div style="text-align:center"><img src="AgroSENSE/screenshots/commguide.png" alt="community guide" width="300" style="align-self: center;"/></div>
 
-*Community Guide section of the app, educating people about hydroponics.*
+<div style="text-align: center;"><i>Community Guide section of the app, educating people about hydroponics.</i></div>
+<br>
 
-![Cookbook video.](AgroSENSE/screenshots/cookbook.gif)
+<div style="text-align:center"><img src="AgroSENSE/screenshots/cookbook.gif" alt="community guide" width="300" style="align-self: center;"/></div>
 
-*Cookbook section of the app, showing recipes with hydroponics-grown ingredients.*
+<div style="text-align: center;"><i>Cookbook section of the app, showing recipes with hydroponics-grown ingredients.</i></div>
+
+<br>
+<br>
 
 ## Installation
 Download the project files to your computer
