@@ -34,6 +34,9 @@ The AgroSENSE mobile app is built to help users set up their own hydroponics sys
 ## Installation
 Download the project files to your computer
 
+### React Native CLI
+AgroSENSE uses React Native. First, install the React Native CLI using the instructions at https://reactnative.dev/docs/environment-setup. Select the “React Native CLI Quickstart” option and your desired platforms and complete the installation with the instructions provided.
+
 ### Mac - Android or iOS
 1. Open Terminal and navigate to the project folder
 1. To run the app on the iOS Simulator, Xcode must be installed with a valid signing profile. Enter the following command in the terminal: 
